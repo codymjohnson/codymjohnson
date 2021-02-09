@@ -1,4 +1,5 @@
-### Homework #2
+# About Me
+Ever since I began to take my first steps into the world of full-stack development, I’ve had deep appreciations and a strong will to develop innovative technology, whether it be simple website applications or breathtaking UI experiences, I long to leave a mark in the world of technology. I am a freshly budding engineer that is eager to be a sponge and soak up all the knowledge I can and continue to grow with any company that gives me the chance. 
 
 <!--
 **codymjohnson/codymjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
